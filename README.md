@@ -1,11 +1,12 @@
 # Angular Projects Repo
 
 ## Reference
-* [Essentials • Overview • Angular](https://angular.dev/essentials)
-* [Angular - The Complete Guide (2024 Edition) | Udemy](https://www.udemy.com/course-dashboard-redirect/?course_id=756150)
+* [Angular Essentials | Angular.dev](https://angular.dev/essentials)
 * [Difference between Angular and AngularJS](https://www.scaler.com/topics/angular/difference-between-angularjs-and-angular/)
 * [Using Angular in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial)
 * [Download Node.js](https://nodejs.org/en)
+* [Angular CLI | github](https://github.com/angular/angular-cli)
+* [Angular - The Complete Guide (2024 Edition) | Udemy](https://www.udemy.com/course-dashboard-redirect/?course_id=756150)
 
 ## Setup Angular Environment
 
