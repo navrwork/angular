@@ -31,6 +31,9 @@ $ ng --version
 ```console
 $ ng new my-first-ng-app
 ```
+> [!NOTE]
+> After issuing the "$ ng new ..." command, pick the default options for stylesheet format ("CSS") and SSR/SSG ("no") by hitting Enter.
+> Wait few minutes for the project to be created. 
 * Link to a newly created Angular app: [my-first-ng-app](https://github.com/navrwork/angular/tree/main/my-first-ng-app)
 
 ## Run the Angular App
