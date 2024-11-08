@@ -19,16 +19,25 @@ To install the Angular CLI, in a terminal or command prompt type:
 $ npm install --global @angular/cli
 ```
 
-## Create a New Angular App
-You can now create a new Angular application by typing:
-```console
-$ ng new my-first-ng-app
-```
-
-## Command Reference
 ### Commands to Validate Setup
 ```console
 $ node --version
 $ npm --version
 $ ng --version
 ```
+
+## Create a New Angular App
+* You can now create a new Angular application by typing:
+```console
+$ ng new my-first-ng-app
+```
+* Link to a newly created Angular app: [my-first-ng-app](https://github.com/navrwork/angular/tree/main/my-first-ng-app)
+
+## Run the Angular App
+* You can run the Angular app directly from the IDE (say, Visual Studio Code) or from command prompt.
+* Enter the below command to start/run the Angular application :
+```console
+$ ng serve
+```
+* Once the app starts, visit http://localhost:4200/ from a browser. You should see a page similar to the one below.
+  <img src="https://github.com/user-attachments/assets/11c383df-a031-4051-acbc-da5e7a994162" height="400" width="800"></img>
